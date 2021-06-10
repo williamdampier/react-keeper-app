@@ -54,4 +54,19 @@
     white-space: pre-wrap;
     word-wrap: break-word;
   }
+
+  .note input {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+  border: 10px solid transparent;
   
+}
+
+.note textarea {
+  font-size: 1.1em;
+    margin-bottom: 10px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border: 10px solid transparent;
+  
+}
